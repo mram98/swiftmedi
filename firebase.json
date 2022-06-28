@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "pharma",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
